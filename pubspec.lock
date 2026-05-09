@@ -1,0 +1,51 @@
+packages:
+  archive:
+    dependency: "direct main"
+    description:
+      name: archive
+      sha256: "0c2c2d35c43d7a68a8acf3ae0d42f85c8e46b3a08fb1fe2a42cd89d37451dfc2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.3.0"
+  collection:
+    dependency: transitive
+    description:
+      name: collection
+      sha256: "a1229b5850b02b081f4e5eca0b3d97f8b97a879e3e3e75bc9b93b5e46695f8a7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.18.0"
+  http:
+    dependency: "direct main"
+    description:
+      name: http
+      sha256: "759d1a329847dd0f39226c688d3e06a6b8679668e350e2891a6474f8b4bb8525"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.12.0"
+  lints:
+    dependency: "direct dev"
+    description:
+      name: lints
+      sha256: "cbf8d4b858bb0134ef3ef87841abdf8d63bfc255c266b7bf6b39daa1085c4290"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.0"
+  path:
+    dependency: "direct main"
+    description:
+      name: path
+      sha256: "087ce49c3f0dc39180befefc60fdb4acd8f8620e5682fe2476afd0b3688bb4af"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.9.0"
+  test:
+    dependency: "direct dev"
+    description:
+      name: test
+      sha256: "a1f7595805820fcc05e5c52e3a231aedd0b72d2a807dc7d94501eb1c678bcdd9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.25.8"
+sdks:
+  dart: ">=3.0.0 <4.0.0"
